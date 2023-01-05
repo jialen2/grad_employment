@@ -1,0 +1,1 @@
+If met the problem of "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version x". Download chromedriver for current version of Chrome browser from https://chromedriver.chromium.org/downloads. The current Chrome browser version is usually listed in the error message.
